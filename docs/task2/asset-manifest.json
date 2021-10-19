@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7d4db514.chunk.css",
+    "main.js": "./static/js/main.228d5075.chunk.js",
+    "main.js.map": "./static/js/main.228d5075.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4d9e6fca.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4d9e6fca.js.map",
+    "static/js/2.6e03915a.chunk.js": "./static/js/2.6e03915a.chunk.js",
+    "static/js/2.6e03915a.chunk.js.map": "./static/js/2.6e03915a.chunk.js.map",
+    "static/js/3.3f8ec62e.chunk.js": "./static/js/3.3f8ec62e.chunk.js",
+    "static/js/3.3f8ec62e.chunk.js.map": "./static/js/3.3f8ec62e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.7d4db514.chunk.css.map": "./static/css/main.7d4db514.chunk.css.map",
+    "static/js/2.6e03915a.chunk.js.LICENSE.txt": "./static/js/2.6e03915a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "./static/media/tiger.bddcb139.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d9e6fca.js",
+    "static/js/2.6e03915a.chunk.js",
+    "static/css/main.7d4db514.chunk.css",
+    "static/js/main.228d5075.chunk.js"
+  ]
+}
